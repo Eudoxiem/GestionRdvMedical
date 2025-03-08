@@ -26,7 +26,7 @@ public class Appointements {
     private Time heure;
 
     @Column(name="Statut", nullable=false)
-    private String statut ;
+    private String statust ;
 
 
 
